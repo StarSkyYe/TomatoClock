@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/Tomato.ico</file>
+        <file>images/audio_file.ico</file>
+        <file>images/start.bmp</file>
+        <file>images/stop.bmp</file>
+    </qresource>
+</RCC>
