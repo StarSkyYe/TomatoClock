@@ -4,6 +4,9 @@ simple tomato clock
 
 基本功能：设置工作时长和休息时长，进行计时，在进入休息状态时，可选择是否播放音乐。
 
+实现效果：<br>
+![](https://github.com/StarSkyYe/TomatoClock/raw/master/Design_sketch.png)
+
 工程结构说明：
 
 1 media用于存放mp3音频文件
